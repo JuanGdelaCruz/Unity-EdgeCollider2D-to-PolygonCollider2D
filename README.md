@@ -9,4 +9,4 @@ Editor tool which converts EdgeCollider2D to PolygonCollider2D
 
 1. Select the gameobjects which hold the EdgeColliders2D that you want to conver to PolygonCollider2D. 
 2. Select  '/Tools/Collider2D/EdgeToPolygon' in the menu bar.
-[[https://github.com/JuanGdelaCruz/Unity-EdgeCollider2D-to-PolygonCollider2D-/blob/master/Docs/Animation.gif|alt=octocat]]
+![Alt Text](https://github.com/JuanGdelaCruz/Unity-EdgeCollider2D-to-PolygonCollider2D-/blob/master/Docs/Animation.gif)
